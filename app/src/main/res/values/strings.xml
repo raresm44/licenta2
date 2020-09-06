@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">licenta2</string>
+    <string name="facebook_app_id">765850917317846</string>
+    <string name="fb_login_protocol_scheme">fb765850917317846</string>
+
+</resources>

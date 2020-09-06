@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "664483921788",
+    "firebase_url": "https://licenta2-9a565.firebaseio.com",
+    "project_id": "licenta2-9a565",
+    "storage_bucket": "licenta2-9a565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664483921788:android:2d45ac49bbbdcc7cb92ef9",
+        "android_client_info": {
+          "package_name": "com.rares.licenta2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664483921788-cvfqp3g6br6m9o81vve0phbu1orai3nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvvzCgfHk4vwruVKRYe5Yvbe5PkYrhNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664483921788-cvfqp3g6br6m9o81vve0phbu1orai3nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
